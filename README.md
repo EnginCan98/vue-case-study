@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Install Bootstrap
+npm install bootstrap@5.3.6
+
+### Install Capacitor
+https://capacitorjs.com/solution/vue
+npm install @capacitor/core @capacitor/cli
